@@ -1,4 +1,4 @@
-package com.qa.AddingDatabaseSpringBootModel;
+package com.qa.AddingDatabaseSpringBoot.model;
 
 import java.io.Serializable;
 import java.util.Date;
